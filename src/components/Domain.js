@@ -5,13 +5,6 @@ export default function Domain() {
   return(
   <div className="domains ">
   <div className="heading flex items-center justify-center h-32 sm:h-48 bg-slate-950">
-    <div className="heading-text sm:text-7xl text-4xl font-bold">
-      <div className="dom">
-        <h1 className=" head md:text-6xl text-4xl" data-text="&nbsp;DOMAINS&nbsp;">
-          &nbsp;DOMAINS &nbsp;
-        </h1>
-      </div>
-    </div>
   </div>
 
       <div className="sub-domain flex items-center justify-center h-16 sm:h-24 md:h-32 lg:h-40 bg-slate-900">
@@ -27,7 +20,7 @@ export default function Domain() {
       <br></br>
       <br></br>
       <div className="domain-conatiner-one flex flex-wrap justify-center bg-slate-950">
-        <div className="containerrr ">
+        <div className="containerrr">
           <div className="serviceBox">
             <div className="icon">
               <i className="img_heading">
